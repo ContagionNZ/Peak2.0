@@ -1,0 +1,7 @@
+#Sun May 21 18:38:58 NZST 2017
+base.0=D\:\\UNI_2017\\MDDN_352\\Project\#3\\Peak2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6ad4698c2f16f4e4d5f1dff9c4692c75ddb7072
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\UNI_2017\\MDDN_352\\Project\#3\\Peak2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0242af0e25ec18a0d8ab6fb18cda7a8e3cb0c181\\classes.dex
+base.1=D\:\\UNI_2017\\MDDN_352\\Project\#3\\Peak2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_0242af0e25ec18a0d8ab6fb18cda7a8e3cb0c181
+file.0=D\:\\UNI_2017\\MDDN_352\\Project\#3\\Peak2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b6ad4698c2f16f4e4d5f1dff9c4692c75ddb7072\\classes.dex
