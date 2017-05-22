@@ -2312,7 +2312,7 @@ containing a value of this type.
         public static final int beginning=0x7f0b0022;
         public static final int bottom=0x7f0b002a;
         public static final int button=0x7f0b005e;
-        public static final int button4=0x7f0b0061;
+        public static final int buttonTotal =0x7f0b0061;
         public static final int buttonDrinks=0x7f0b005f;
         public static final int buttonFood=0x7f0b0060;
         public static final int buttonPanel=0x7f0b0036;
