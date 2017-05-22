@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
 application
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:5:5-30:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven\.android\build-cache\b4187962d4582eeeff2c781329d9bea6993c8f1b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven\.android\build-cache\69c2a71c0355f6bb1759d2324dc6b7e8eace43d3\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Steven\.android\build-cache\0c46103621b207bf0ea7dd842148e221668af51f\output\AndroidManifest.xml:29:5-20
@@ -26,37 +26,53 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Steven
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Steven\.android\build-cache\d7a2e73902750fe2ef107611d0e953f46c3eea64\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Steven\.android\build-cache\e3ace806d4fb37708a20bfcb1f7efc28e9146404\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:10:9-35
 	android:roundIcon
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:9:9-54
 	android:allowBackup
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.steven.peak2.MainActivity
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.steven.peak2.MenuActivity
-ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:19:9-59
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:19:9-27:20
+	android:parentActivityName
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:21:13-55
 	android:name
-		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml:19:19-47
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:20:13-41
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:24:13-26:49
+	android:value
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:26:17-46
+	android:name
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:25:17-63
+activity#com.example.steven.peak2.FoodMenuActivity
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:28:9-54
+	android:name
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:28:19-51
+activity#com.example.steven.peak2.TotalActivity
+ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:29:9-60
+	android:name
+		ADDED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml:29:19-48
 uses-sdk
-INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven\.android\build-cache\b4187962d4582eeeff2c781329d9bea6993c8f1b\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven\.android\build-cache\69c2a71c0355f6bb1759d2324dc6b7e8eace43d3\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Steven\.android\build-cache\0c46103621b207bf0ea7dd842148e221668af51f\output\AndroidManifest.xml:21:5-23:60
@@ -70,11 +86,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\St
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven\.android\build-cache\b4187962d4582eeeff2c781329d9bea6993c8f1b\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
-		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
+		INJECTED from D:\UNI_2017\MDDN_352\Project#3\Peak2.0\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Steven\.android\build-cache\b4187962d4582eeeff2c781329d9bea6993c8f1b\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Steven\.android\build-cache\69c2a71c0355f6bb1759d2324dc6b7e8eace43d3\output\AndroidManifest.xml:25:5-27:34
