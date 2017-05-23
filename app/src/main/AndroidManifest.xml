@@ -26,7 +26,11 @@
                 android:value=".MainActivity" />
         </activity>
         <activity android:name=".FoodMenuActivity" />
-        <activity android:name=".TotalActivity"></activity>
+        <activity android:name=".TotalActivity" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

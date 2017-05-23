@@ -36,6 +36,10 @@
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
@@ -66,6 +70,10 @@
     {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
@@ -106,6 +114,10 @@
     {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",

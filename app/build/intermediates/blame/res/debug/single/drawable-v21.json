@@ -8,6 +8,14 @@
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
@@ -20,8 +28,16 @@
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     },
     {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Steven\\.android\\build-cache\\b4187962d4582eeeff2c781329d9bea6993c8f1b\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Steven\\.android\\build-cache\\8fcc0ee7c321102eef7d3ec08b7bee6b3662a801\\output\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "D:\\UNI_2017\\MDDN_352\\Project#3\\Peak2.0\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
